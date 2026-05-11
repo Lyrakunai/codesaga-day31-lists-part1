@@ -8,7 +8,7 @@
 - append()
 - len()
 
-## 🧠 What I Learned Today
+## 🧠 What I Learned Today:
 - list is mutable ( can be changed )
 - using square brackets [] to store multiple items.
 - python list indexing starts from 0 - accessing items.
@@ -17,8 +17,7 @@
 - append() - to add a new item at the end of the list.
 - len() - counting total items in list.
 
-## 🚀 Practice done
+## 🚀 Practice done:
 - see day31_list_practice.py
 - see day31_challenges.py
 - complete day 31
-- 
